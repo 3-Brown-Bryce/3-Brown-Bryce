@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there 👋
 
 ## **My name is Bryce Brown and I am a student at CCA currently taking the Exploring Computer Science class.**
 
