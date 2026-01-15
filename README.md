@@ -11,6 +11,10 @@
 **Branches:** Kind of a like a clone, but it is still listed under the repository and can be access by others. It is usually used for a different purpose than the main one, but still uses its code.
 
 **Fork:** Also like a clone, but this one is intended not to create a different subset for a repository, but this one is usually meant to be committed to change the main branch.
+
+**Issue:** A tool for tracking bugs, tasks, or feature ideas in a repository
+
+**Merge: **Combines changes from one branch into another, creating a new commit
 <!--
 **3-Brown-Bryce/3-Brown-Bryce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
